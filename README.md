@@ -1,2 +1,2 @@
 Twitter = '@crstnETH'
-Disc = 'crstn.eth#1442'
+\nDisc = 'crstn.eth#1442'

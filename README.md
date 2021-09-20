@@ -1,2 +1,3 @@
-Twitter = '@crstnETH'
-\nDisc = 'crstn.eth#1442'
+Twitter: @crstnETH
+
+Disc: crstn.eth#1442
